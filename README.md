@@ -1,5 +1,13 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a Computer Science student at **UET Lahore**, currently in my second year (finished 1st year). I'm building a solid foundation in programming and problem-solving, exploring **data structures** and core CS concepts across multiple languages.<br><br>I enjoy turning theory into practice through small projects and I'm actively sharpening my logical thinking to take on more advanced challenges. Always open to learning, collaborating, and connecting with fellow developers and students.<br><br>- 🔭 Currently exploring: Data Structures & Algorithms, core CS fundamentals<br>- 🌱 Learning by building: small projects to practice what I study<br>- 🤝 Open to: collaboration, study groups, and connecting with other devs<br>- 📫 Reach me: [your email or LinkedIn]
+### 👋 About Me
+
+I'm a Computer Science student at **UET Lahore**, currently in my second year. I'm building a solid foundation in programming and problem-solving, exploring data structures and core CS concepts across multiple languages.
+
+I enjoy turning theory into practice through small projects and I'm actively sharpening my logical thinking to take on more advanced challenges. Always open to learning, collaborating, and connecting with fellow developers and students.
+
+- 🔭 Currently exploring: Data Structures & Algorithms, core CS fundamentals
+- 🌱 Learning by building: Small projects to practice what I study
+- 🤝 Open to: Collaboration, study groups, and connecting with other developers
+- 📫 Reach me: [Insert your email or LinkedIn link here]
 
 
 ## 🌐 Socials:
